@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "SchoolApp",
+    "slug": "SchoolApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash_1.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon_1.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
